@@ -2,6 +2,10 @@
 
 A WebRTC powered P2P file sharing app.
 
+# Downloads
+
+[Windows](https://mega.nz/#!AcM2EChC!PXAnCxU7QUo8pbtgeEPFUSKxytrIdjng8-UpN34y8ZU)
+
 ## Screenshots
 ![Screenshot 1](https://github.com/wski/FileFerret/blob/master/gh/Screen%20Shot%202018-09-11%20at%209.19.20%20PM.png?raw=true)
 ![Screenshot 2](https://github.com/wski/FileFerret/blob/master/gh/Screen%20Shot%202018-09-11%20at%209.19.13%20PM.png?raw=true)

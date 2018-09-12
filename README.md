@@ -1,6 +1,8 @@
 # FileFerret
 
-A WebRTC powered P2P file sharing app.
+A WebRTC powered P2P file sharing app. 
+
+### Disclaimer: This was a one day build and may contain some bugs, if demand is high the app will be refined.
 
 # Downloads
 

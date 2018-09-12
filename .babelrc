@@ -1,0 +1,17 @@
+{
+  "presets": [
+    ["env", {
+      "modules": false,
+      "targets": {
+        "browsers": ["> 1%", "last 2 versions"]
+      }
+    }]
+  ],
+  "plugins": ["transform-runtime", "transform-object-rest-spread", "syntax-dynamic-import"],
+  "env": {
+    "test": {
+      "presets": ["env"],
+      "plugins": ["istanbul"]
+    }
+  }
+}

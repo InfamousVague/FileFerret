@@ -39,6 +39,9 @@
               status: 'received',
             });
           });
+          this.connection.on('close', () => {
+            console.log('close');
+          });
           this.$root.$data.store.commit('connected');
         });
       },
